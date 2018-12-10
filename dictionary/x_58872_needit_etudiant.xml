@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ETUDIANT" max_length="40" name="x_58872_needit_etudiant" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Adresse" max_length="40" name="adresse" type="string"/>
+        <element label="datenaiss" max_length="40" name="datenaiss" type="glide_date_time"/>
+        <element label="matricule" max_length="100" name="matricule" type="string"/>
+        <element label="NOM" max_length="100" name="nom" type="string"/>
+    </element>
+</database>

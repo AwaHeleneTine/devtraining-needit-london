@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Needit" max_length="40" name="x_58872_needit_needit" sizeclass="2" type="collection">
+        <element label="email" max_length="45" name="email" type="string"/>
+        <element label="NOM ETUDIANT" max_length="100" name="nom" type="string"/>
+        <element label="NUMERO" max_length="8" name="numero" type="integer"/>
+        <element dependent="active" dependent_on_field="active" label="nom" max_length="80" name="u_field_name_nom" type="field_name" use_dependent_field="true"/>
+        <element label="New Date" max_length="40" name="u_glide_date_naiss" type="glide_date"/>
+    </element>
+</database>

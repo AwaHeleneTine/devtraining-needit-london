@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ETUDIANTE" max_length="40" name="x_58872_needit_etudiante" type="collection">
+        <element label="Nom Etudiant" max_length="100" name="nom_etudiant" type="string"/>
+    </element>
+</database>

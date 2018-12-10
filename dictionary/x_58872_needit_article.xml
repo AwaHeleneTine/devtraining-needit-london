@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Article" max_length="40" name="x_58872_needit_article" type="collection">
+        <element label="NomArticle" max_length="100" name="nomarticle" type="string"/>
+        <element label="reference" max_length="100" name="reference" type="string"/>
+    </element>
+</database>

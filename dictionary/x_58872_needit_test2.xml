@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="TEST2" max_length="40" name="x_58872_needit_test2" type="collection">
+        <element attributes="import_attribute_name=B,edge_encryption_enabled=true" label="B" max_length="40" name="u_b" type="string"/>
+        <element attributes="import_attribute_name=C,edge_encryption_enabled=true" label="C" max_length="40" name="u_c" type="string"/>
+        <element attributes="import_attribute_name=D,edge_encryption_enabled=true" label="D" max_length="40" name="u_d" type="string"/>
+        <element attributes="import_attribute_name=Hub4IT,edge_encryption_enabled=true" label="Hub4IT" max_length="40" name="u_hub4it" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Commande" max_length="40" name="x_58872_needit_commande" type="collection">
+        <element label="article" max_length="40" name="article" reference="x_58872_needit_article" type="string"/>
+        <element label="client" max_length="40" name="client" reference="x_58872_needit_client" type="string"/>
+        <element label="dateCmd" max_length="40" name="datecmd" type="glide_date_time"/>
+    </element>
+</database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="client" max_length="40" name="x_58872_needit_client" type="collection">
+        <element label="adresse" max_length="100" name="adresse" type="string"/>
+        <element label="nomClient" max_length="100" name="nomclient" type="string"/>
+        <element label="telClient" max_length="100" name="telclient" type="string"/>
+    </element>
+</database>
